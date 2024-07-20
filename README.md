@@ -1,1 +1,1 @@
-project using HTML, CSS, JAVASCRIPT
+stopwatch project using HTML, CSS, JAVASCRIPT
